@@ -122,7 +122,6 @@ header {
   text-transform: uppercase;
   margin-top: 652px;
   height: 64px;
-  width: auto;
   word-spacing: 17px;
   display: inline-flex;
   width: 1440px;
@@ -332,6 +331,7 @@ header {
 }
 .logo-column {
   display: flex;
+  margin-left: 95px;
 }
 .about-column {
   display: flex;
@@ -346,9 +346,6 @@ header {
   position: absolute;
   margin-top: 63px;
   margin-left: 46px;
-}
-.logo-column {
-  margin-left: 95px;
 }
 .about__title {
   display: flex;
