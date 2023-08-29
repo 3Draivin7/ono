@@ -236,7 +236,7 @@ header {
   height: 240px;
   border-radius: 50%;
   background-color: #000;
-  background-image: url('../images/logo-white.png');
+  background-image: url(../images/logo-white.png);
   background-repeat: no-repeat;
   background-position: center center;
   margin-left: 95px;
